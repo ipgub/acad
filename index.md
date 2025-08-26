@@ -8,6 +8,13 @@ title: Home
 
 Selamat datang di halaman utama bimbingan akademik.
 
+## Daftar Isi
+{: .no_toc .text-delta }
+
+* TOC
+{:toc}
+
+
 ## Perencanaan Studi
   - Panduan dan Prosedur [Konsultasi KRS](KRS.md){:target="_blank"}
   - Penyusunan rencana studi - merencanakan mata kuliah per semester
