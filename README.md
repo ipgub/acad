@@ -1,4 +1,9 @@
+---
+layout: default
+---
+
 # PANDUAN DAN PROSEDUR KONSULTASI KRS
+{: .no_toc .text-delta }
 
 **Author:** *Irwan Prasetya Gunawan* 
 
@@ -6,7 +11,11 @@
 
 **Published Date:** 22 Februari 2021 
 
+## Daftar Isi
+{: .no_toc .text-delta }
 
+* TOC
+{:toc}
 
 ## Tentang dokumen ini
 
