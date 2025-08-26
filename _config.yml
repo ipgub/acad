@@ -39,7 +39,7 @@ toc_sticky: true
 
 # SEO dan metadata
 logo: "/img/UBCrest.png"
-logo_width: 100
+logo_width: 100px
 favicon: "/img/UBakrie2.ico"
 
 # Social media icons
