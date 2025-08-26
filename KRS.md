@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # PANDUAN DAN PROSEDUR KONSULTASI KRS
@@ -25,32 +26,32 @@ Dokumen ini adalah *short guidance* and *procedure* Konsultasi KRS Semester GENA
 
 Prosedur konsultasi KRS bisa digambarkan secara garis besar dalam file berikut:
 
-- [Flow chart Konsultasi KRS](https://files.bakrie.ac.id/s/mGADRYzK5JG2mpi)
+- [Flow chart Konsultasi KRS](https://files.bakrie.ac.id/s/mGADRYzK5JG2mpi){:target="_blank"}
 
 
 
 ## Penjelasan Singkat
 
 - Prosedur konsultasi dan bimbingan KRS bisa dilakukan dengan terlebih dahulu melakukan hal-hal sesuai dengan petunjuk yang ada di tautan di bawah ini:
-  - [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo)
-  - [Buku Panduan Mahasiswa](https://files.bakrie.ac.id/s/6DzCg8aimkyFgF6) (hal. 30-32)
+  - [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"}
+  - [Buku Panduan Mahasiswa](https://files.bakrie.ac.id/s/6DzCg8aimkyFgF6){:target="_blank"} (hal. 30-32)
 
-- Sesuai dengan [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) di atas, maka mahasiswa *sangat direkomendasikan* untuk membuat dan kemudian menge-*share* dokumen Deskripsi Rencana Studi (DRS) pada buku bimbingan PA melalui Google Drive (atau platform online sharing file lainnya, sesuai kesepakatan) dengan memberikan *permission* pada email [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) dan [irwan@ieee.org](mailto:irwan@ieee.org). *Notice sharing* bisa dikirimkan ke email  [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id).
+- Sesuai dengan [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"} di atas, maka mahasiswa *sangat direkomendasikan* untuk membuat dan kemudian menge-*share* dokumen Deskripsi Rencana Studi (DRS) pada buku bimbingan PA melalui Google Drive (atau platform online sharing file lainnya, sesuai kesepakatan) dengan memberikan *permission* pada email [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id){:target="_blank"} dan [irwan@ieee.org](mailto:irwan@ieee.org){:target="_blank"}. *Notice sharing* bisa dikirimkan ke email  [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id){:target="_blank"}.
 
-- Setelah DRS disepakati bersama, mahasiswa dipersilakan untuk melakukan input KRS online pada [https://academic.bakrie.ac.id](https://academic.bakrie.ac.id) (jika masih belum menginput KRS), sesuai dengan rencana yang sudah dibuat. Mahasiswa dihimbau untuk memberikan notifikasi kepada Dosen PA jika KRS sudah diinput, atau jika misalnya melakukan perubahan KRS, dan sebagainya, agar Dosen PA bisa selalu terupdate dengan status KRS Mahasiswa yang bersangkutan.
+- Setelah DRS disepakati bersama, mahasiswa dipersilakan untuk melakukan input KRS online pada [https://academic.bakrie.ac.id](https://academic.bakrie.ac.id){:target="_blank"} (jika masih belum menginput KRS), sesuai dengan rencana yang sudah dibuat. Mahasiswa dihimbau untuk memberikan notifikasi kepada Dosen PA jika KRS sudah diinput, atau jika misalnya melakukan perubahan KRS, dan sebagainya, agar Dosen PA bisa selalu terupdate dengan status KRS Mahasiswa yang bersangkutan.
 - Jadwal tatap muka *online* untuk bimbingan KRS, jika seandainya dibutuhkan, akan diatur tersendiri sesuai dengan kebutuhan.
 
 
 
 ## Contoh Dokumen
 
-Contoh dokumen Deskripsi Rencana Studi sebagai rekomendasi untuk dibuat oleh mahasiswa bimbingan akademis bisa dilihat pada dokumen [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) (hal. 7).
+Contoh dokumen Deskripsi Rencana Studi sebagai rekomendasi untuk dibuat oleh mahasiswa bimbingan akademis bisa dilihat pada dokumen [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"} (hal. 7).
 
 
 
 ## Kurikulum Operasional
 
-Kurikulum Operasional (KO) Program Studi Informatika yang saat ini berlaku adalah kurikulum yang sudah termuat pada sistem BIG 2.0 [https://academic.bakrie.ac.id](https://academic.bakrie.ac.id). Daftar serta sebaran mata kuliah untuk tiap-tiap semesternya bisa dilihat pada [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo), dengan sedikit perubahan sebagai berikut:
+Kurikulum Operasional (KO) Program Studi Informatika yang saat ini berlaku adalah kurikulum yang sudah termuat pada sistem BIG 2.0 [https://academic.bakrie.ac.id](https://academic.bakrie.ac.id){:target="_blank"}. Daftar serta sebaran mata kuliah untuk tiap-tiap semesternya bisa dilihat pada [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"}, dengan sedikit perubahan sebagai berikut:
 
 - Semester 2: MK Kalkulus 2 / *Calculus 2 for IT* (TIF104, 2 SKS) diganti dengan MK Kalkulus II (FTK211, 3 SKS). 
 
@@ -88,7 +89,7 @@ Kurikulum Operasional (KO) Program Studi Informatika yang saat ini berlaku adala
 
   
 
-- *Kok mata kuliah yang ada di [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) berbeda dengan yang ada di BIG?*
+- *Kok mata kuliah yang ada di [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"} berbeda dengan yang ada di BIG?*
 
   Daftar mata kuliah yang ada di buku panduan berasal dari kurikulum operasional yang dibuat dan disahkan pada tahun 2012 yang lalu. Daftar mata kuliah yang ada di BIG adalah daftar mata kuliah yang sudah di-*update* sesuai dengan kondisi terakhir. Yang digunakan sebagai acuan Pengisian KRS adalah daftar mata kuliah yang ada di BIG tersebut. Daftar mata kuliah yang ada di buku panduan cukup digunakan sebagai acuan perencanaan studi. 
 
@@ -164,7 +165,7 @@ Kurikulum Operasional (KO) Program Studi Informatika yang saat ini berlaku adala
 
 - *Dibikin pake apa sih ini dokumen panduan dan buku prosedurnya?*
 
-  Halaman yang kalian baca saat ini ditulis dengan menggunakan sebuah [markdown](https://en.wikipedia.org/wiki/Markdown) editor: [Typora](https://typora.io). Sementara [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) saya tulis dengan menggunakan [LaTeX](https://en.wikipedia.org/wiki/LaTeX). [Flow chart Konsultasi KRS](https://files.bakrie.ac.id/s/mGADRYzK5JG2mpi) saya buat dengan menggunakan Typora yang mensupport code fences bertipe [flowchart](http://flowchart.js.org). Sayangnya, karena fasilitas visualisasi markdown pada server nextcloud yang digunakan tidak mensupport tampilan grafis pada dokumen markdown, maka gambar flowchart mesti saya konversikan terlebih dahulu ke dalam format PNG, lalu diberikan sebagai tampilan terpisah pada tautan tersendiri.   
+  Halaman yang kalian baca saat ini ditulis dengan menggunakan sebuah [markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"} editor: [Typora](https://typora.io){:target="_blank"}. Sementara [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo){:target="_blank"} saya tulis dengan menggunakan [LaTeX](https://en.wikipedia.org/wiki/LaTeX){:target="_blank"}. [Flow chart Konsultasi KRS](https://files.bakrie.ac.id/s/mGADRYzK5JG2mpi){:target="_blank"} saya buat dengan menggunakan Typora yang mensupport code fences bertipe [flowchart](http://flowchart.js.org){:target="_blank"}. Sayangnya, karena fasilitas visualisasi markdown pada server nextcloud yang digunakan tidak mensupport tampilan grafis pada dokumen markdown, maka gambar flowchart mesti saya konversikan terlebih dahulu ke dalam format PNG, lalu diberikan sebagai tampilan terpisah pada tautan tersendiri.   
 
   
 
