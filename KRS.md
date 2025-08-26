@@ -6,8 +6,8 @@ title: Home
 # PANDUAN DAN PROSEDUR KONSULTASI KRS
 {: .no_toc .text-delta }
 
-**Author:** *Irwan Prasetya Gunawan* 
-**Contact:** [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) / [irwan@ieee.org](mailto:irwan@ieee.org)
+**Author:** *Irwan Prasetya Gunawan* \
+**Contact:** [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) / [irwan@ieee.org](mailto:irwan@ieee.org) \
 **Published Date:** 22 Februari 2021 
 
 ## Daftar Isi
