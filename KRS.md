@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 # PANDUAN DAN PROSEDUR KONSULTASI KRS
