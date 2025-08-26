@@ -25,6 +25,11 @@ remote_theme: pages-themes/architect@v0.2.0    # Bold header design
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-readme-index
+
+readme_index:
+  enabled: true
+  remove_originals: false
 
 # Di front matter post/page
 toc: true
