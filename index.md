@@ -12,7 +12,7 @@ Selamat datang di halaman utama bimbingan akademik.
   - Penyusunan rencana studi - merencanakan mata kuliah per semester
   - Pemilihan mata kuliah - rekomendasi mata kuliah yang sesuai dengan minat dan kemampuan
   - Perencanaan target IPK - menetapkan target prestasi akademik
-  - 
+  
 - Monitoring dan Evaluasi Studi
   - Pemantauan kemajuan studi - mengecek progress SKS, IPK, dan masa studi
   - Evaluasi hasil belajar - menganalisis nilai dan prestasi per semester
