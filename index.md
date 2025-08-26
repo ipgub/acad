@@ -7,4 +7,4 @@ title: Home
 
 Selamat datang di halaman utama bimbingan akademik.
 
-[Lihat Panduan KRS](KRS.md)
+[Lihat Panduan KRS](KRS.md){:target="_blank"}
