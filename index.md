@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Selamat Datang di Halaman Bimbingan Akademik
+# Bimbingan Akademik
 
-Ini adalah halaman utama website acad.
+Selamat datang di halaman utama bimbingan akademik.
 
-[Lihat KRS](KRS.md)
+[Lihat Panduan KRS](KRS.md)
