@@ -7,4 +7,5 @@ title: Home
 
 Selamat datang di halaman utama bimbingan akademik.
 
-[Lihat Panduan KRS](KRS.md){:target="_blank"}
+## Kartu Rencana Studi
+- Panduan dan Prosedur Konsultasi KRS: [Lihat](KRS.md){:target="_blank"}
