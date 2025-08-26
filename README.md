@@ -2,7 +2,7 @@
 
 **Author:** *Irwan Prasetya Gunawan* 
 
-**Contact:** [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) / [ipg@ieee.org](mailto:ipg@ieee.org)
+**Contact:** [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) / [irwan@ieee.org](mailto:irwan@ieee.org)
 
 **Published Date:** 22 Februari 2021 
 
@@ -26,7 +26,7 @@ Prosedur konsultasi KRS bisa digambarkan secara garis besar dalam file berikut:
   - [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo)
   - [Buku Panduan Mahasiswa](https://files.bakrie.ac.id/s/6DzCg8aimkyFgF6) (hal. 30-32)
 
-- Sesuai dengan [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) di atas, maka mahasiswa *sangat direkomendasikan* untuk membuat dan kemudian menge-*share* dokumen Deskripsi Rencana Studi (DRS) pada buku bimbingan PA melalui Google Drive (atau platform online sharing file lainnya, sesuai kesepakatan) dengan memberikan *permission* pada email [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) dan [ipg@ieee.org](mailto:ipg@ieee.org). *Notice sharing* bisa dikirimkan ke email  [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id).
+- Sesuai dengan [Panduan Konsultasi KRS Mahasiswa](https://files.bakrie.ac.id/s/dXRKLZBYcCHzNFo) di atas, maka mahasiswa *sangat direkomendasikan* untuk membuat dan kemudian menge-*share* dokumen Deskripsi Rencana Studi (DRS) pada buku bimbingan PA melalui Google Drive (atau platform online sharing file lainnya, sesuai kesepakatan) dengan memberikan *permission* pada email [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id) dan [irwan@ieee.org](mailto:irwan@ieee.org). *Notice sharing* bisa dikirimkan ke email  [irwan.gunawan@bakrie.ac.id](mailto:irwan.gunawan@bakrie.ac.id).
 
 - Setelah DRS disepakati bersama, mahasiswa dipersilakan untuk melakukan input KRS online pada [https://academic.bakrie.ac.id](https://academic.bakrie.ac.id) (jika masih belum menginput KRS), sesuai dengan rencana yang sudah dibuat. Mahasiswa dihimbau untuk memberikan notifikasi kepada Dosen PA jika KRS sudah diinput, atau jika misalnya melakukan perubahan KRS, dan sebagainya, agar Dosen PA bisa selalu terupdate dengan status KRS Mahasiswa yang bersangkutan.
 - Jadwal tatap muka *online* untuk bimbingan KRS, jika seandainya dibutuhkan, akan diatur tersendiri sesuai dengan kebutuhan.
